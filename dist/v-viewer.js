@@ -185,7 +185,7 @@ var Component = __webpack_require__(6)(
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Workspaces\\Web\\Git\\v-viewer\\src\\component.vue"
+Component.options.__file = "/Users/dvsmedeiros/dev/projects/repository/v-viewer/src/component.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] component.vue: functional components are not supported with templates, they should use render functions.")}
 

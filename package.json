@@ -1,5 +1,5 @@
 {
-  "name": "v-viewer",
+  "name": "v-viewer-compsis",
   "version": "1.0.1",
   "description": "Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js",
   "main": "dist/v-viewer.js",
@@ -88,6 +88,6 @@
     "webpack-merge": "^4.0.0"
   },
   "dependencies": {
-    "viewerjs": "^1.0.0"
+    "viewerjs-compsis": "^1.2.0"
   }
 }
